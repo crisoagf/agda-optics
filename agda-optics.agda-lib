@@ -1,0 +1,3 @@
+name: optics
+depend: standard-library
+include: src
